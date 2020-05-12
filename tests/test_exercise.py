@@ -18,4 +18,4 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert output == ["","","","","From where?","To where?","4","5"]
+    assert output == ["","","","","","From where?","To where?",4,5]
